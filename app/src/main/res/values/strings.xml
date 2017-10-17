@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Music Player </string>
+
+    <string name="main">This activity is the main screen of the music player app. It shows
+        lists the available options: Search, Player, library and playlist.
+     </string>
+    <string name="Playlist">This activity shows all playlist the user makes.
+        Also he can edit and choose to play a custom playlist.
+     </string>
+    <string name="Library">This activity shows the songs library sorting by album,artist and songs.\n
+                           Will intent to use Android Pay to let users buy songs. The Android Pay API offers a quick and easy path to enable secure.
+     </string>
+    <string name="Song">This activity will display songs.
+     </string>
+    <string name="Artist">This activity will display artists.
+     </string>
+    <string name="Album">This activity will display Albums.
+     </string>
+    <string name="Search">This activity is used for searching music (by song name, album title,
+        author, etc.) into the user\'s music database.
+     </string>
+    <string name="Now_playing">This activity user will can listen to his music.
+     </string>
+    <string name="title_activity_library">Library</string>
+</resources>
